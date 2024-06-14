@@ -1,0 +1,155 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+    background-color: #333;
+    color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+header button {
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #0056b3;
+}
+
+main {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label {
+    margin-bottom: 0.5rem;
+}
+
+form input {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+form button {
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+.apod-container, .favourites-container, .search-results-container, .pagination-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.apod-card, .favourite-card, .search-result-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    width: 300px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode .apod-card, 
+body.dark-mode .favourite-card, 
+body.dark-mode .search-result-card {
+    background-color: #444;
+    color: #f0f0f0;
+    border-color: #555;
+}
+
+.apod-card img, .favourite-card img, .search-result-card img {
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.apod-card iframe, .favourite-card iframe, .search-result-card iframe {
+    width: 100%;
+    border-radius: 8px;
+}
+
+button.remove-favourite {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button.remove-favourite:hover {
+    background-color: #cc0000;
+}
+
+button.share-apod {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #00aced;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button.share-apod:hover {
+    background-color: #0084b4;
+}
+
+.view-slideshow {
+    margin-bottom: 2rem;
+    padding: 0.5rem 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.view-slideshow:hover {
+    background-color: #218838;
+}
+
+@media (max-width: 600px) {
+    .apod-card, .favourite-card, .search-result-card {
+        width: 100%;
+    }
+}
