@@ -22,6 +22,9 @@ STYLE CODE!⭐
 ![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/0a152076-dd6a-43ce-8de9-a7de90f21fdd)
 
 
+Output!
+
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/8641e243-80a7-4b8b-b2ac-486ff8c5a948)
 
 
 
