@@ -4,7 +4,8 @@
 
 From Part II
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/a98aa299-76a2-4050-b4a4-e9f6b036ab2e)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/c6a8a2cc-4b6a-4650-83b8-c4fc4b461abd)
+
 
 Click on New Branch
 
