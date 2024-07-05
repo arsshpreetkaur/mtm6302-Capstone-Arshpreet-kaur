@@ -1,32 +1,33 @@
-# mtm6302-Capstone-90541116319
+# mtm6302- Capstone Project Part-3
 # Name: arshpreet kaur
 # Student number: 90541116319
 
 Making Branch Part-3
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/fe930667-2b21-4b6c-b1ad-dfcad16cace4)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/1453a83b-2301-4bde-bd65-86c4c6be5699)
+
 
 Click on New Branch
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/1cdaddbb-48f9-4788-bab0-c9216913b125)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/a6842c21-f2a3-4e83-83e2-97be60edc688)
 
-From Part II
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/a98aa299-76a2-4050-b4a4-e9f6b036ab2e)
+From Part III
+
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/6696f7c9-95df-423e-a1dd-cf01470456e3)
+
+Collaboration!
+
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/d3a34fe5-f3d3-4c8e-903b-7621b3e491c8)
 
 Screenshot of Web!
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/cd8f8c4d-43a6-4fcd-8bd7-daf0084b1355)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/1e71aecd-161d-4a43-baf4-b77f10575a8a)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/973cf1ff-f8fc-401b-8f27-4bc4afea6fea)
 
 Screenshot of Phone!
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/9d04c03d-741f-4302-ab08-bf21491f7a00)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/b4df30c7-287a-496f-9bd5-23332cf11b40)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/dae2c640-ee69-4233-bb9c-7df8fa601b8f)
 
 Screenshot of Tablet!
-
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/106f2f80-a6a9-451e-83ef-5bbdbe5fac42)
-
-
-
-
-
