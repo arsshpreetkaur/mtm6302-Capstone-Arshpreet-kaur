@@ -18,6 +18,7 @@ From Part III
 
 Collaboration!
 
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/d3a34fe5-f3d3-4c8e-903b-7621b3e491c8)
 
 Screenshot of Web!
 
@@ -31,7 +32,7 @@ Screenshot of Phone!
 
 Screenshot of Tablet!
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/106f2f80-a6a9-451e-83ef-5bbdbe5fac42)
+
 
 
 
