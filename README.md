@@ -8,7 +8,8 @@ Making Branch Part-2
 
 Click on New Branch
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/1cdaddbb-48f9-4788-bab0-c9216913b125)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/47e333ed-eb4e-4974-b50c-bca20c01d6c0)
+
 
 From Part II
 
