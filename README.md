@@ -1,4 +1,4 @@
-# mtm6302-Capstone-90541116319
+# mtm6302-Capstone Project Part-2
 # Name: arshpreet kaur
 # Student number: 90541116319
 
