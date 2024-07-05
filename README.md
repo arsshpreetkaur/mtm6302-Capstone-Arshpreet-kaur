@@ -2,9 +2,10 @@
 # Name: arshpreet kaur
 # Student number: 90541116319
 
-Making Branch Part-2
+Making Branch Part-3
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/e2ad3f6a-6ce2-4a3d-9831-96d8c63a7850)
+![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/1453a83b-2301-4bde-bd65-86c4c6be5699)
+
 
 Click on New Branch
 
