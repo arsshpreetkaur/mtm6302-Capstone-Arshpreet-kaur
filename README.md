@@ -24,4 +24,4 @@ Screenshot of Phone!
 
 Screenshot of Tablet!
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/106f2f80-a6a9-451e-83ef-5bbdbe5fac4
+(https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/106f2f80-a6a9-451e-83ef-5bbdbe5fac4
