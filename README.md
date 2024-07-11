@@ -35,7 +35,7 @@ Step 7 : Screenshot of Tablet!
 ![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/54cda30d-86c2-4394-ad52-33d348387fd6)
 ![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/3991a7c6-4d08-47fe-89ba-dfb8e3ed44f2)
 
-![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/3cfe1441-97c6-4f0f-9e9f-cf9a320c820e)
+                ![image](https://github.com/arsshpreetkaur/mtm6302-Capstone-Arshpreet-kaur/assets/133889383/3cfe1441-97c6-4f0f-9e9f-cf9a320c820e)
 
 
 
